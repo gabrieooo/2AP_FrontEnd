@@ -13,5 +13,7 @@ footer{
     width:100%;
     background-color: blanchedalmond;k
 }
-
+.contPrincipal{
+    display: flex;
+}
 
